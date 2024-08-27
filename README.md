@@ -24,3 +24,4 @@ GuftaguNow is a chat application developed using Flutter and Firebase. This app 
 - **GetX:** 
 - **MVC Architecture:** 
 
+# GuftuguNow-chat-app
