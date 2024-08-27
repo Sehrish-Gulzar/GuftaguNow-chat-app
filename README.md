@@ -1,5 +1,5 @@
 # Chat App with Firebase
-##GuftaguNow Chat App 💁‍♀️
+### GuftaguNow Chat App 💁‍♀️
 GuftaguNow is a chat application developed using Flutter and Firebase. This app allows users to create profiles, search for other users, and engage in real-time conversations through chat rooms.
 
 ## Features
